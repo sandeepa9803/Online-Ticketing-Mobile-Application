@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306166911256",
+    "project_id": "ticketing-app-89a17",
+    "storage_bucket": "ticketing-app-89a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306166911256:android:01296a3767d14509da8e6d",
+        "android_client_info": {
+          "package_name": "com.csse.ticketing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306166911256-pvv3s9mi9hqthf9vuskendi29nr97q2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmofYeAcpaXHXj7kCrYWX7ER518pp8uyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306166911256-pvv3s9mi9hqthf9vuskendi29nr97q2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
